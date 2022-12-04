@@ -17,8 +17,8 @@
 - 需要在.env文件中填写 server端地址 `VUE_APP_BASE_API`
 - npm run dev
 
-![img.png](img.png)
-![img_1.png](img_1.png)
+![img.png](images/img.png)
+![img_1.png](images/img_1.png)
 
 ## wechat-robot
 > 微信机器人端，主要使用wechaty
@@ -28,6 +28,8 @@
 - 填写token,该token为[`puppet-padlocal`](http://pad-local.com/)的ipad协议,可申请7天免费试用
 - 执行`pnpm dev`扫码登陆微信
 - 微信登陆成功后，可以切换为`pnpm prod`使用pm2后台常驻
+- 
+![img_1.png](images/img_2.png)
 
 ### 如由疑问可联系(base64)vx: Y2hlbmh1YXpoZW5iYW5n
 
